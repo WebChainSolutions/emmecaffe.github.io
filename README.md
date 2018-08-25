@@ -6,3 +6,5 @@ project for Emme Caffè Roasting
 www.emmecaffè.it
 
 https://webchainsolutions.github.io/emmecaffe.github.io/
+
+Coded by: Nicolò Saporito
