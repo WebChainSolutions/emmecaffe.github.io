@@ -1,5 +1,5 @@
 # emmecaffe.github.io
-project of: 
+project for Emme Caffè Roasting (Bologna, Italy, 2018)
 
 www.emmecaffè.it
 
