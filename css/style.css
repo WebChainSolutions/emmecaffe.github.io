@@ -917,7 +917,7 @@ p {
   width: 49px;
   position: absolute;
   content: "";
-  background: url(../images/0402-chef.png) no-repeat;
+  background: url(../images/ok/coffee-cup.png) no-repeat;
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -1335,16 +1335,16 @@ p {
   border-radius: 50%;
 }
 #fh5co-type h3.with-icon.icon-1:before, #fh5co-type h3.with-icon.icon-1::before {
-  background: url(../images/type-1.png) no-repeat center center;
+  background: url(../images/ok/1.jpg) no-repeat center center;
 }
 #fh5co-type h3.with-icon.icon-2:before, #fh5co-type h3.with-icon.icon-2::before {
-  background: url(../images/type-2.png) no-repeat center center;
+  background: url(../images/ok/2.jpg)  no-repeat center center;
 }
 #fh5co-type h3.with-icon.icon-3:before, #fh5co-type h3.with-icon.icon-3::before {
-  background: url(../images/type-3.png) no-repeat center center;
+  background: url(../images/ok/3.jpg) no-repeat center center;
 }
 #fh5co-type h3.with-icon.icon-4:before, #fh5co-type h3.with-icon.icon-4::before {
-  background: url(../images/type-4.png) no-repeat center center;
+  background: url(../images/ok/4.jpg)  no-repeat center center;
 }
 #fh5co-type p {
   color: rgba(255, 255, 255, 0.7);
